@@ -1,0 +1,303 @@
+[20:14:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:14:53] [Worker-Main-6/INFO]: Loaded 7 recipes
+[20:14:54] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[20:14:54] [Server thread/INFO]: Loading properties
+[20:14:54] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[20:14:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:14:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:14:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:14:54] [Server thread/INFO]: Generating keypair
+[20:14:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:14:54] [Server thread/INFO]: Using default channel type
+[20:14:54] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[20:14:54] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:14:55] [Server thread/INFO]: [nightcore] Loading 2 libraries... please wait
+[20:14:55] [Server thread/INFO]: [nightcore] Loaded library D:\Server\ChillMC\libraries\com\zaxxer\HikariCP\5.0.1\HikariCP-5.0.1.jar
+[20:14:55] [Server thread/INFO]: [nightcore] Loaded library D:\Server\ChillMC\libraries\org\slf4j\slf4j-api\2.0.0-alpha1\slf4j-api-2.0.0-alpha1.jar
+[20:14:55] [Server thread/INFO]: [nightcore] Loaded library D:\Server\ChillMC\libraries\it\unimi\dsi\fastutil-core\8.5.13\fastutil-core-8.5.13.jar
+[20:14:55] [Server thread/INFO]: [NexEngine] Loading 2 libraries... please wait
+[20:14:55] [Server thread/INFO]: [NexEngine] Loaded library D:\Server\ChillMC\libraries\com\zaxxer\HikariCP\5.0.1\HikariCP-5.0.1.jar
+[20:14:55] [Server thread/INFO]: [NexEngine] Loaded library D:\Server\ChillMC\libraries\org\slf4j\slf4j-api\2.0.0-alpha1\slf4j-api-2.0.0-alpha1.jar
+[20:14:55] [Server thread/INFO]: [NexEngine] Loaded library D:\Server\ChillMC\libraries\it\unimi\dsi\fastutil\8.5.11\fastutil-8.5.11.jar
+[20:14:56] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.5
+[20:14:56] [Server thread/INFO]: [AutomaticBroadcast] Loading AutomaticBroadcast v1.6.0
+[20:14:56] [Server thread/INFO]: [nightcore] Loading nightcore v2.6.1
+[20:14:56] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.10.2
+[20:14:56] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.2 is now loaded. Registering protocol transformers and injecting...
+[20:14:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:14:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:14:56] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:14:56] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:14:56] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.10.2
+[20:14:56] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.113
+[20:14:56] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[20:14:57] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[20:14:57] [Server thread/INFO]: [LPC] Loading LPC v3.6.0
+[20:14:57] [Server thread/INFO]: [DecentHolograms] Loading DecentHolograms v2.8.6
+[20:14:57] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.0-dev+81-cde7184
+[20:14:57] [Server thread/INFO]: [ItemEdit] Loading ItemEdit v3.1.13
+[20:14:57] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[20:14:57] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[20:14:58] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@441db87a]
+[20:14:58] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.27.0
+[20:14:58] [Server thread/INFO]: [DeluxeMenus] Loading DeluxeMenus v1.14.0-Release
+[20:14:58] [Server thread/INFO]: [DeluxeMenus] NMS hook has been setup successfully!
+[20:14:58] [Server thread/INFO]: [TAB] Loading TAB v4.1.2
+[20:14:58] [Server thread/INFO]: [NexEngine] Loading NexEngine v2.2.12
+[20:14:58] [Server thread/INFO]: [ItemTag] Loading ItemTag v3.2.1
+[20:14:58] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.21.0-dev+81-cde7184
+[20:14:58] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-beta2-b2453
+[20:14:58] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v3.2.7
+[20:14:58] [Server thread/INFO]: [PlayerPoints] Initializing using RoseGarden v1.3.0.36-DEV-SNAPSHOT
+[20:14:58] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (265 ms).
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Loading config.
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': ALLAY
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': FROG
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': TADPOLE
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': WARDEN
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': ALLAY
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': FROG
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': TADPOLE
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': WARDEN
+[20:14:58] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[20:14:58] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[20:14:58] [Server thread/INFO]: [CoinsEngine] Loading CoinsEngine v2.3.3
+[20:14:58] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.3.8
+[20:14:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:14:58] [Server thread/INFO]: [nightcore] Enabling nightcore v2.6.1
+[20:14:58] [Server thread/WARN]: [nightcore] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.3-b131 which is not a depend or softdepend of this plugin.
+[20:14:58] [Server thread/INFO]: [nightcore] Found economy provider: EssentialsX Economy
+[20:14:58] [Server thread/INFO]: [nightcore] Server Version: 1.18.2 ✔
+[20:14:58] [Server thread/INFO]: [nightcore] Entity Id Counter: OK ✔
+[20:14:58] [Server thread/INFO]: [nightcore] Item NBT Compress: OK ✔
+[20:14:58] [Server thread/INFO]: [nightcore] Plugin loaded in 129 ms!
+[20:14:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.113
+[20:14:59] [Server thread/INFO]:         __    
+[20:14:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.113
+[20:14:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:14:59] [Server thread/INFO]: 
+[20:14:59] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:14:59] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:14:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:14:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:14:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 971ms)
+[20:14:59] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[20:14:59] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:14:59] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.21.0-dev+81-cde7184 which is not a depend or softdepend of this plugin.
+[20:14:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:14:59] [Server thread/INFO]: [nightcore] Found permissions provider: SuperPerms
+[20:14:59] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:14:59] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:14:59] [Server thread/INFO]: [nightcore] Found chat provider: LuckPerms
+[20:14:59] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:14:59] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[20:14:59] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[20:14:59] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[20:14:59] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:15:00] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:15:00] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[20:15:00] [Server thread/INFO]: [NexEngine] Enabling NexEngine v2.2.12
+[20:15:00] [Server thread/INFO]: [NexEngine] Seems like we have Paper based fork here...
+[20:15:00] [Server thread/INFO]: [NexEngine] Successfully hooked with LuckPerms permissions
+[20:15:00] [Server thread/INFO]: [NexEngine] Successfully hooked with EssentialsX Economy economy
+[20:15:00] [Server thread/INFO]: [NexEngine] Successfully hooked with LuckPerms chat
+[20:15:00] [Server thread/INFO]: [NexEngine] Plugin loaded in 47 ms!
+[20:15:00] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v3.2.7
+[20:15:00] [Server thread/INFO]: [PlayerPoints] Data handler connected using SQLite.
+[20:15:00] [Server thread/INFO]: [CoinsEngine] Enabling CoinsEngine v2.3.3
+[20:15:00] [Server thread/INFO]: [CoinsEngine] Powered by nightcore
+[20:15:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[20:15:01] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14509673
+[20:15:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Currency registered: 'coins'!
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Currency registered: 'money'!
+[20:15:01] [Server thread/INFO]: [NexEngine] Successfully hooked with CoinsEngine economy
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Registered 'money' as Vault Economy!
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Detected plugin available for data migration: PlayerPoints
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Detected plugin available for data migration: Vault
+[20:15:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: coinsengine [2.3.3]
+[20:15:01] [Server thread/INFO]: [CoinsEngine] Plugin loaded in 198 ms!
+[20:15:01] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.3.8
+[20:15:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:15:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:15:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:15:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:15:01] [Server thread/INFO]: Preparing level "world"
+[20:15:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:15:02] [Server thread/INFO]: Time elapsed: 175 ms
+[20:15:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:15:02] [Server thread/INFO]: Time elapsed: 64 ms
+[20:15:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:15:02] [Server thread/INFO]: Time elapsed: 48 ms
+[20:15:02] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[20:15:02] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:15:02] [Server thread/INFO]: [AutomaticBroadcast] Enabling AutomaticBroadcast v1.6.0
+[20:15:02] [Server thread/INFO]:    _____  _____
+[20:15:02] [Server thread/INFO]:   |  _  || __  |  AutomaticBroadcast
+[20:15:02] [Server thread/INFO]:   |     || __ -|    Version 1.6.0
+[20:15:02] [Server thread/INFO]:   |__|__||_____|      by Pandaaa
+[20:15:02] [Server thread/INFO]: 
+[20:15:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.2
+[20:15:02] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.18.2 (758)
+[20:15:02] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.10.2
+[20:15:02] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[20:15:02] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.6
+[20:15:02] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 22 build(s) out of date.
+You are running build 741, the latest version is build 763.
+Update at https://www.spigotmc.org/resources/13932/
+[20:15:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+81-cde7184
+[20:15:03] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:15:03] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:15:03] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
+[20:15:03] [Server thread/INFO]: [Essentials] Using locale en_US
+[20:15:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:15:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:15:03] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[20:15:03] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[20:15:03] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.1.13
+[20:15:03] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[20:15:03] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[20:15:03] [Server thread/INFO]: [ItemEdit] Hooking into PlaceholderApi
+[20:15:03] [Server thread/WARN]: [ItemEdit] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.11.5 which is not a depend or softdepend of this plugin.
+[20:15:03] [Server thread/INFO]: [ItemEdit] Hooked into PlaceHolderAPI:
+[20:15:03] [Server thread/INFO]: [ItemEdit] placeholders:
+[20:15:03] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[20:15:03] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[20:15:03] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[20:15:03] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[20:15:03] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[20:15:03] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[20:15:03] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[20:15:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[20:15:03] [Server thread/INFO]: [ItemEdit] # Enabled (took 81 ms)
+[20:15:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[20:15:03] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[20:15:03] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[20:15:03] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[20:15:03] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[20:15:03] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[20:15:03] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[20:15:03] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.0-Release
+[20:15:03] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[20:15:03] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[20:15:04] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
+[20:15:04] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[20:15:04] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[20:15:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.0-Release]
+[20:15:04] [Server thread/INFO]: [TAB] Enabling TAB v4.1.2
+[20:15:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tab [4.1.2]
+[20:15:04] [Server thread/INFO]: [TAB] Enabled in 99ms
+[20:15:04] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.2.1
+[20:15:04] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[20:15:04] [Server thread/WARN]: [ItemTag] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.11.5 which is not a depend or softdepend of this plugin.
+[20:15:04] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[20:15:04] [Server thread/INFO]: [ItemTag] placeholders:
+[20:15:04] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[20:15:04] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[20:15:04] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[20:15:04] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[20:15:04] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[20:15:04] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[20:15:04] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[20:15:04] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[20:15:04] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[20:15:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[20:15:04] [Server thread/INFO]: [ItemTag] # Enabled (took 78 ms)
+[20:15:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+81-cde7184
+[20:15:04] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[20:15:04] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[20:15:04] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[20:15:04] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[20:15:04] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[20:15:04] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[20:15:04] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: 'D:\Server\ChillMC\plugins\Essentials\spawn.yml'
+[20:15:04] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[20:15:04] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[20:15:04] [Server thread/INFO]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[20:15:04] [Server thread/INFO]: The above message is displayed because your FAWE version is newer than git-Paper-388 (MC: 1.18.2) and contains features of future minecraft versions which do not exist in git-Paper-388 (MC: 1.18.2) hence the tree type MANGROVE is not available. This is not an error. This version of FAWE will work on your version of  Minecraft. This is an informative message only.
+[20:15:04] [Server thread/INFO]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[20:15:04] [Server thread/INFO]: The above message is displayed because your FAWE version is newer than git-Paper-388 (MC: 1.18.2) and contains features of future minecraft versions which do not exist in git-Paper-388 (MC: 1.18.2) hence the tree type TALL_MANGROVE is not available. This is not an error. This version of FAWE will work on your version of  Minecraft. This is an informative message only.
+[20:15:04] [Server thread/INFO]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[20:15:04] [Server thread/INFO]: The above message is displayed because your FAWE version is newer than git-Paper-388 (MC: 1.18.2) and contains features of future minecraft versions which do not exist in git-Paper-388 (MC: 1.18.2) hence the tree type CHERRY is not available. This is not an error. This version of FAWE will work on your version of  Minecraft. This is an informative message only.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[20:15:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[20:15:04] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:15:04] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[20:15:05] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:15:05] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[20:15:05] [Server thread/INFO]: Running delayed init tasks
+[20:15:05] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:15:05] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[20:15:05] [Craft Scheduler Thread - 6 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[20:15:05] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[20:15:05] [Craft Scheduler Thread - 6 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[20:15:05] [Server thread/WARN]: [FastAsyncWorldEdit] Loaded class com.sk89q.worldguard.protection.association.RegionAssociable from WorldGuard v7.0.7+216b061 which is not a depend or softdepend of this plugin.
+[20:15:05] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[20:15:05] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[20:15:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerpoints [3.2.7]
+[20:15:05] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[20:15:05] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.27.0
+[20:15:05] [Craft Scheduler Thread - 10 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:15:05] [Server thread/INFO]: Done (10.886s)! For help, type "help"
+[20:15:05] [Server thread/INFO]: Timings Reset
+[20:15:05] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[20:15:05] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[20:15:05] [Craft Scheduler Thread - 11 - ItemEdit/INFO]: [ItemEdit] New Update at https://spigotmc.org/resources/40993
+[20:15:05] [pool-24-thread-1/WARN]: [DiscordSRV] Update check failed: zip file closed
+[20:15:11] [Server thread/INFO]:  
+Error: Wrong arguments!
+Usage: /coins balance [player]
+ 
+[20:15:17] [ForkJoinPool.commonPool-worker-1/INFO]: Economy » Invalid player!
+[20:15:21] [Server thread/INFO]:  
+Error: Wrong arguments!
+Usage: /coins give <player> <amount> [-s]
+ 
+[20:15:25] [User Authenticator #1/INFO]: UUID of player AnTrc2 is 9e69a7e0-5fcd-3b8b-8c7f-847ba30156d2
+[20:15:25] [Server thread/INFO]: AnTrc2 joined the game
+[20:15:25] [Server thread/INFO]: AnTrc2[/127.0.0.1:45225] logged in with entity id 241 at ([world]13.564653668866496, 72.0, 43.376885116383825)
+[20:15:32] [Server thread/INFO]: AnTrc2 lost connection: Disconnected
+[20:15:32] [Server thread/INFO]: AnTrc2 left the game
+[20:15:57] [Server thread/INFO]: Economy » AnTrc2's balance: 0⛂.
+[20:16:00] [User Authenticator #1/INFO]: UUID of player AnTrc2 is 9e69a7e0-5fcd-3b8b-8c7f-847ba30156d2
+[20:16:00] [Server thread/INFO]: AnTrc2 joined the game
+[20:16:01] [Server thread/INFO]: AnTrc2[/127.0.0.1:45282] logged in with entity id 269 at ([world]13.564653668866496, 72.0, 43.376885116383825)
+[20:16:03] [Server thread/INFO]: Economy » AnTrc2's balance: 0⛂.
+[20:16:03] [Server thread/INFO]: Economy » AnTrc2's balance: 0⛂.
+[20:16:04] [Server thread/INFO]: Economy » AnTrc2's balance: 0⛂.
+[20:16:08] [Craft Scheduler Thread - 11 - AuthMe/INFO]: [AuthMe] AnTrc2 logged in 127.0.0.1
+[20:16:10] [Server thread/INFO]: Economy » AnTrc2's balance: 0⛂.
+[20:16:12] [Server thread/INFO]:  
+Error: Wrong arguments!
+Usage: /money balance [player]
+ 
+[20:16:16] [Server thread/INFO]: Economy » AnTrc2's balance: 0$.
+[20:16:31] [Server thread/INFO]: Economy » Added 123⛂ to AnTrc2's balance. New balance: 123⛂.
+[20:16:48] [Server thread/INFO]: AnTrc2 has made the advancement [Monster Hunter]
+[20:18:25] [Server thread/WARN]: [AutomaticBroadcast] Loaded class me.clip.placeholderapi.PlaceholderAPI from PlaceholderAPI v2.11.5 which is not a depend or softdepend of this plugin.
+[20:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1697630ms or 33952 ticks behind
+[20:48:04] [Server thread/INFO]: AnTrc2 lost connection: Timed out
+[20:48:04] [Server thread/INFO]: AnTrc2 left the game
+[20:48:18] [HikariPool-1 housekeeper/WARN]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m47s676ms82µs500ns).
